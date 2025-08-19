@@ -10,11 +10,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamad-hk&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-hk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=mohamad-hk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohamad-hk&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=mohamad-hk&icon=0&color=0)](https://visitcount.itsvg.in)
