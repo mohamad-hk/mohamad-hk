@@ -122,13 +122,3 @@ AI-assisted blogging platform built with Next.js, PostgreSQL, REST APIs, and mod
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-hk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-hk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
-</p>
